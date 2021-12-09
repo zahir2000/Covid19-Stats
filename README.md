@@ -1,6 +1,6 @@
 # Covid19-Stats
 
-A simple shiny app about Covid19 Stats. The data is scraped from [Worldometers.info](https://www.worldometers.info/coronavirus/) each the page is loaded so it provides daily case updates.
+A simple shiny app about Covid19 Stats. The data is scraped from [Worldometers.info](https://www.worldometers.info/coronavirus/) each time the page is loaded so it provides daily case updates.
 
 Provides daily cases on:
 - Total Cases
